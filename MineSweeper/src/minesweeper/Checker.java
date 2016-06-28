@@ -16,7 +16,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 public class Checker extends Application implements EventHandler<ActionEvent>{
-
+	/////hiiiii
 	public  int fieldHeight;
 	public  int fieldWidth;
 	public  int numberOfSquaresY;
